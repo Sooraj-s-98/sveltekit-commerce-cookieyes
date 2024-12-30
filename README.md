@@ -28,7 +28,7 @@ Sign up on CookieYes for free
 Choose your cookie consent banner layout
 Copy the cookie banner code and paste it to your website
 
-Guide: <a href="https://www.cookieyes.com/category/documentation/getting-started/?ref=srj">How to add a cookie banner on website </a>
+Start here: <a href="https://gr3f.co/c/60900/bi0KP">Link</a>
 
 Cookie consent is the legal requirement to obtain consent from website visitors before setting cookies on their devices. Consent is collected via a cookie banner that enables visitors to accept or decline cookies on the website.
 
